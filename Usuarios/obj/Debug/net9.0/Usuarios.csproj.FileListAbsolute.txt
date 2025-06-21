@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.sourcelink.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\bin\Debug\net9.0\Usuarios.exe
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\bin\Debug\net9.0\Usuarios.deps.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\bin\Debug\net9.0\Usuarios.runtimeconfig.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\bin\Debug\net9.0\Usuarios.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\bin\Debug\net9.0\Usuarios.pdb
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\refint\Usuarios.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.pdb
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\Usuarios.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Usuarios\obj\Debug\net9.0\ref\Usuarios.dll

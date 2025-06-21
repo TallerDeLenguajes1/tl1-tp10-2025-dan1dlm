@@ -13,3 +13,18 @@ C:\Users\Alumno\Desktop\TP10\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\refin
 C:\Users\Alumno\Desktop\TP10\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.pdb
 C:\Users\Alumno\Desktop\TP10\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\TP10\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\ref\Tareas.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\bin\Debug\net9.0\Tareas.exe
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\bin\Debug\net9.0\Tareas.deps.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\bin\Debug\net9.0\Tareas.runtimeconfig.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\bin\Debug\net9.0\Tareas.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\bin\Debug\net9.0\Tareas.pdb
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.sourcelink.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\refint\Tareas.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.pdb
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\Tareas.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp10-2025-dan1dlm\Tareas\obj\Debug\net9.0\ref\Tareas.dll
