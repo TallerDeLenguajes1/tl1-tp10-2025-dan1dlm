@@ -6,16 +6,16 @@ var UrlApi = "https://v2.jokeapi.dev/joke/Programming,Miscellaneous,Dark,Pun,Spo
 
 HttpResponseMessage respuesta = await ClienteConsumo.GetAsync(UrlApi); // Realiza el consumo de la Api y guarda la respuesta de la api en la variable respuesta 
 
-respuesta.EnsureSuccessStatusCode(); // Comprueba que la respuesta de la api sea valida, caso contrario larga una excepcion :(
+respuesta.EnsureSuccessStatusCode(); // Comprueba que la respuesta de la api sea valida
 
 string CuerpoRespuesta = await respuesta.Content.ReadAsStringAsync(); // convierte el cuerpo de la respuesta a string para poder deserializarla y instanciarla en la clases necesaria
 Bromas listbromas = JsonSerializer.Deserialize<Bromas>(CuerpoRespuesta); // Deserealiza el CuerpoRespuesta que ya esta en string y los instancia en una variable de la clase bromas
 
 
-foreach (var bromita in listbromas.jokes)
+foreach (var broma in listbromas.jokes)
 {
     
-    Console.WriteLine($"Categoria de la Broma: {bromita.category} \n Broma: {bromita.joke} \n idioma de la broma: {bromita.lang}");
+    Console.WriteLine($"Categoria de la Broma: {broma.category} \n Broma: {broma.joke} \n idioma de la broma: {broma.lang}");
     Console.WriteLine("/---------------/");
 
 }
